@@ -86,3 +86,16 @@ for (let i = 0; i < accordionBtn.length; i++) {
   });
 
 }
+
+$(document).ready(function() {
+  $('#login-form').validate({ });
+});
+
+function goToHome(){
+  movePage("index.html");
+  return true;
+}
+
+function movePage(pageName){
+  window.location.assign(pageName);
+}
