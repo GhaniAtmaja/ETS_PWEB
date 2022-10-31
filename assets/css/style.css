@@ -2,13 +2,6 @@
   #style.css
 \*-----------------------------------*/
 
-/**
- * copyright 2022 @codewithsadee 
- */
-
-
-
-
 
 /*-----------------------------------*\
   #CUSTOM PROPERTY
@@ -130,7 +123,7 @@
     border-radius: 10px;
   }
   
-  body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
+  body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 100%); }
   
   
   
