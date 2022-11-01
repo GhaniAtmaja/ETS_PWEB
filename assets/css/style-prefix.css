@@ -2555,7 +2555,7 @@
   
     .category-item { min-width: calc(25% - 22.5px); }
   
-    .category-item-title { --fs-9: 0.824rem; }
+    .category-item-title { --fs-9: 1.25rem; }
 
 
     .login {height: 30rem; margin: 3rem;}
