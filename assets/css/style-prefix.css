@@ -816,7 +816,12 @@
   }
   
   
-  
+  .title-text{
+    font-size: var(--fs-1);
+    font-weight: var(--weight-700);
+    color: var(--onyx);
+    
+  }
   
   
   /*-----------------------------------*\
