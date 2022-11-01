@@ -1177,8 +1177,22 @@
     text-align: center;
   }
 
+  .product-featured .countdown-content-day {
+    padding: 5px;
+    background: var(--cultured);
+    border-radius: var(--border-radius-md);
+    text-align: center;
+  }
 
-  
+  .day, .hour, .minute, .second{
+    color: var(--eerie-black);
+    font-size: var(--fs-5);
+    font-weight: var(--weight-500);
+    min-width: 40px;
+  }
+
+
+
   .product-featured .display-number {
     color: var(--eerie-black);
     font-size: var(--fs-5);
