@@ -1191,9 +1191,14 @@
     min-width: 40px;
   }
 
-
-
   .product-featured .display-number {
+    color: var(--eerie-black);
+    font-size: var(--fs-5);
+    font-weight: var(--weight-500);
+    min-width: 40px;
+  }
+
+  .product-featured .container-day {
     color: var(--eerie-black);
     font-size: var(--fs-5);
     font-weight: var(--weight-500);
